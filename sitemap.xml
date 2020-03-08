@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://sopia-bot.github.io/</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/quick-start/install</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/quick-start/manager</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/quick-start/load-setting</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/quick-start/spoor-chat</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/menus/home</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/menus/code</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/menus/spoor-chat</loc>
+	</url>
+</urlset>
