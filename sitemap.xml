@@ -73,6 +73,15 @@
 		<loc>https://sopia-bot.github.io/docs/api/itv/</loc>
 	</url>
 	<url>
+		<loc>https://sopia-bot.github.io/docs/api/inject/</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/signin/</loc>
+	</url>
+	<url>
 		<loc>https://sopia-bot.github.io/release/</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/refresh-key/</loc>
 	</url>
 </urlset>
