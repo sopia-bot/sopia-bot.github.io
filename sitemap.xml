@@ -16,13 +16,13 @@
 		<loc>https://sopia-bot.github.io/docs/quick-start/manager/</loc>
 	</url>
 	<url>
-		<loc>https://sopia-bot.github.io/docs/quick-start/load-setting/</loc>
-	</url>
-	<url>
 		<loc>https://sopia-bot.github.io/docs/quick-start/spoor-chat/</loc>
 	</url>
 	<url>
 		<loc>https://sopia-bot.github.io/docs/menus/home/</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/menus/ez-cmd/</loc>
 	</url>
 	<url>
 		<loc>https://sopia-bot.github.io/docs/menus/code/</loc>
@@ -59,6 +59,9 @@
 	</url>
 	<url>
 		<loc>https://sopia-bot.github.io/docs/bundle/ez-cmd/</loc>
+	</url>
+	<url>
+		<loc>https://sopia-bot.github.io/docs/bundle/roulette/</loc>
 	</url>
 	<url>
 		<loc>https://sopia-bot.github.io/docs/api/start/</loc>
